@@ -5,6 +5,8 @@ This travel app obtains a desired trip location & date from the user, and displa
 
 ### Technology used :
 HTML, CSS, JAVASCRIPT, NODEJS, EXPRESS
+- Client Side Code is being written in HTML, CSS and Vanilla JS
+- Server side code is being written in NodeJS and ExpressJS
 
 ## Server side code
 The server file is under `src/server/server.js`
@@ -13,11 +15,11 @@ The server file is under `src/server/server.js`
 The client side files is under folder `src/client/`
 
 ### Instructions
-* Type in terminal `npm install` to install all the dependencies.
+* Step 1 :  Type in terminal `npm install` to install all the dependencies.
 (alternatively use `npm init -y` and `npm i express body-parser cors`)
 
-* To start the app: run first `npm run build:prod`.
+* Step 2 :  To start the app: run first `npm run build:prod`.
 
-* Then to start the server run `npm start`.
+* Step 3 :  Then to start the server run `npm start`.
 
-* For test cases simply run `npm run test`.
+* Step 4 :  For test cases simply run `npm run test`.
