@@ -12,7 +12,7 @@ HTML, CSS, JAVASCRIPT, NODEJS, EXPRESS
 The server file is under `src/server/server.js`
 
 ## Client Side Code
-The client side files is under folder `src/client/`
+The client side file is under folder `src/client/`
 
 ### Instructions
 * Step 1 :  Type in terminal `npm install` to install all the dependencies.
