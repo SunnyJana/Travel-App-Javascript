@@ -22,4 +22,5 @@ The client side file is under folder `src/client/`
 
 * Step 3 :  Then to start the server run `npm start`.
 
-* Step 4 :  For test cases simply run `npm run test`.
+* Step 4 :  For test cases simply run `npm run test`
+;
