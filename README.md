@@ -16,7 +16,7 @@ The client side files is under folder `src/client/`
 
 ### Instructions
 * Step 1 :  Type in terminal `npm install` to install all the dependencies.
-(alternatively use `npm init -y` and `npm i express body-parser cors`)
+(Alternatively use the `npm init -y` and `npm i express body-parser cors`)
 
 * Step 2 :  To start the app: run first `npm run build:prod`.
 
