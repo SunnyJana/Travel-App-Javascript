@@ -1,6 +1,6 @@
 # Travel App Project
 
-## Overviewb
+## Overview
 This travel app obtains a very desired trip locations & date from the user, and displays weather and an image of the location using information obtained from external APIs.
 
 ### Technology used :
