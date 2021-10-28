@@ -3,7 +3,7 @@
 ## Overview
 This travel app obtains a very desired trip locations & date from the user, and displays weather and an image of the location using information obtained from external APIs.
 
-### Technology used :
+### Technology used : 
 HTML, CSS, JAVASCRIPT, NODEJS, EXPRESS
 - Client Side Code is being written in HTML, CSS and Vanilla JS
 - Server side code is being written in NodeJS and ExpressJS
